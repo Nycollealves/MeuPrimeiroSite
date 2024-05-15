@@ -1,0 +1,97 @@
+body{
+    background-image: url(../Img/background.jpg);
+   background-repeat: no-repeat;
+   background-size: contain;
+    
+}
+header{background-color: rgb(77, 139, 195);
+    padding: 3%;
+}
+.logo img{ 
+   width: 10%;
+}
+nav{
+    background-color: rgb(184, 209, 231);
+}
+main{
+    ;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    color: aliceblue;
+    
+}
+
+.titulos{
+    line-height: 3;
+}
+footer{
+    background-color: rgb(112, 48, 160);
+    padding: 3%;
+}
+.cabecalho{
+     padding: 3%;
+}
+.rodape{
+    padding: 3%;
+}
+
+p{ color: rgb(0, 0, 0);
+    line-height: 1.5;
+}
+ul li{
+    line-height: 1.5;
+}
+h1{
+    font-size: 2.5em;
+    text-align: center;
+    font-weight: bold;
+  }
+h2{
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+}
+h3{
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+
+}
+h4{
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+    }        
+    
+p{
+line-height: 1.5;
+font-size: 1.2em;
+color: aliceblue;
+}
+
+
+       
+ul li{
+line-height: 1.5;
+font-size: 1.2em;
+}
+
+table{
+border-collapse: collapse;
+width: 80%;
+font-size: 1.2em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 2%;
+}
+td, th{
+border: 5px dashed #f00;
+padding: 1.5%;
+}
+body {
+   background-color: rgb(191,191,191);
+   font-family: "Playpen Sans", cursive;
+   }
