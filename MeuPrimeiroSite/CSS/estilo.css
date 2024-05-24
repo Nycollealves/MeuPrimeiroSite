@@ -1,15 +1,12 @@
-body{
-    background-color: aliceblue;
-    background-image: url(../Img/130235764-padrão-de-saco-de-dinheiro-vector-sem-emenda-repetição-para-qualquer-web-design.jpg);
-   background-repeat:repeat ;
-   background-size: 100%;
-    
-}
+body {
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(33, 33, 46));
+  }
+
 header{
-    background-color: rgb(77, 139, 195);
-    padding: 3%;
+   background-image: url(../Img/OIP.jpg);
+    padding: 30%;
     display:flex;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: center;
 }
 .logo img{ 
