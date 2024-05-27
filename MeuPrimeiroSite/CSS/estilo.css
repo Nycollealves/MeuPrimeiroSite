@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, rgb(0, 0, 0), rgb(33, 33, 46));
+    background: linear-gradient(to bottom, rgb(0, 0, 0), rgb(5, 5, 85));
   }
 
 header{
@@ -75,7 +75,7 @@ p{
   line-height: 1.5;
   font-size: 1.2em;
   text-align: justify;
-  color: blue;
+  color: rgb(255, 255, 255);
 }
 
 
@@ -125,4 +125,22 @@ figure caption{
     color: purple
 }
 
+#menu ul { 
+    padding:0px;
+    margin:0px;
+    list-style:none;
+    display: flex;
+}
+
+#menu ul li { 
+    display: inline; 
+    font-size: 1.2em;
+}
   
+#menu ul li a {     
+        padding: 2px 10px; 
+        display: inline-block;    
+        text-decoration: none; 
+        white-space: nowrap;
+        color: rgb(15, 29, 230);
+}
